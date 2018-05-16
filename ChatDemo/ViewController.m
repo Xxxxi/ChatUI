@@ -104,7 +104,7 @@
         make.left.right.top.mas_equalTo(self.view);
         make.bottom.mas_equalTo(self.view).offset(-100*CheckAdapt);
     }];
-    
+    //随便加一句注释吧
 }
 
 #pragma mark tableViewDelegate && tableViewDataSource
